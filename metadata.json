@@ -1,0 +1,5 @@
+{
+  "name": "FactoryDataCentral_POC",
+  "description": "A proof-of-concept demonstration for centralizing factory data from SQL, Excel, and CSV into a central dashboard.",
+  "requestFramePermissions": []
+}
